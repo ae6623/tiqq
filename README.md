@@ -43,3 +43,4 @@ https://ti.qq.com/honest-say/my-received.html
 ```
 详见 tiqq/source/TiQQ/src/Main.java
 ```
+[Main.java](https://github.com/ae6623/tiqq/blob/master/source/TiQQ/src/Main.java)
